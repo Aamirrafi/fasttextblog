@@ -4,9 +4,9 @@
         "post0": {
             "title": "Title",
             "content": "import pandas as pd # create a new data frame df = pd.read_csv(a4a_updated.csv) # print(&quot;Given Dataframe is : n&quot;,df) # # Adding two new columns to the existing dataframe. # # bydefault splitting is done on the basis of single space. # df[[&#39;First&#39;,&#39;Last&#39;]] = df.Name.str.split(expand=True) # print(&quot; n After adding two new columns : n&quot;, df) # df.head() . NameError Traceback (most recent call last) &lt;ipython-input-8-f55994935734&gt; in &lt;module&gt; 3 4 # create a new data frame -&gt; 5 df = pd.read_csv(a4a_updated.csv) 6 7 NameError: name &#39;a4a_updated&#39; is not defined .",
-            "url": "https://aamirrafi.github.io/fasttextblog/2021/07/21/Untitled.html",
-            "relUrl": "/2021/07/21/Untitled.html",
-            "date": " • Jul 21, 2021"
+            "url": "https://aamirrafi.github.io/fasttextblog/2021/07/22/test-blog.html",
+            "relUrl": "/2021/07/22/test-blog.html",
+            "date": " • Jul 22, 2021"
         }
         
     
